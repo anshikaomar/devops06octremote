@@ -2,3 +2,5 @@ This is my first file
 This is our second line
 This is my third line
 Adding this line from master
+Adding from feature 1, creating a conflict
+
